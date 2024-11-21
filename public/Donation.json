@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Jackets for Sylhet",
+      "image": "https://i.ibb.co.com/Jkxkz8N/Backpacks-USA-306475-winter-donation-items-image1.webp",
+      "description": "Providing warm jackets to underprivileged families in the Sylhet region.",
+      "status": "Active",
+      "contactInfo": "contact@sylhetdonation.org | +880123456789",
+      "division": "Sylhet"
+    },
+    {
+      "id": 2,
+      "title": "Blanket Drive in Dhaka",
+      "image": "https://i.ibb.co.com/bBdTdWS/donations-1-1920x1371.png",
+      "description": "Distributing blankets to the homeless and low-income communities in Dhaka.",
+      "status": "Active",
+      "contactInfo": "contact@dhakablankets.org | +880987654321",
+      "division": "Dhaka"
+    },
+    {
+      "id": 3,
+      "title": "Sweaters for Kids in Rajshahi",
+      "image": "https://i.ibb.co.com/Lhq8gCn/images.jpg",
+      "description": "Collecting sweaters for children in remote villages of Rajshahi.",
+      "status": "Active",
+      "contactInfo": "info@rajshahisupport.org | +880112233445",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 4,
+      "title": "Winter Relief in Rangpur",
+      "image": "https://i.ibb.co.com/1n3pjwr/images-1.jpg",
+      "description": "Delivering warm clothing to impoverished families in Rangpur.",
+      "status": "Active",
+      "contactInfo": "help@rangpurdonations.org | +880998877665",
+      "division": "Rangpur"
+    },
+    {
+      "id": 5,
+      "title": "Gloves and Caps for Chattogram",
+      "image": "https://i.ibb.co.com/NrBqNrW/1140-box-of-items-for-donations.jpg",
+      "description": "Providing gloves and caps to protect against cold in Chattogram.",
+      "status": "Active",
+      "contactInfo": "support@chattogramdonate.org | +880556677889",
+      "division": "Chattogram"
+    },
+    {
+      "id": 6,
+      "title": "Warm Clothes for Khulna",
+      "image": "https://i.ibb.co.com/Tw3pxgy/donation-box-clothes-living-essentials-money-72821046.webp",
+      "description": "Distributing warm clothes to the needy in the Khulna region.",
+      "status": "Active",
+      "contactInfo": "khulnarelief@gmail.com | +880776655443",
+      "division": "Khulna"
+    },
+    {
+      "id": 7,
+      "title": "Aid Campaign in Barishal",
+      "image": "https://i.ibb.co.com/gTGpMw3/images.jpg",
+      "description": "Providing aid to families in Barishal to survive the harsh winter.",
+      "status": "Active",
+      "contactInfo": "barishalaid@gmail.com | +880667788990",
+      "division": "Barishal"
+    },
+    {
+      "id": 8,
+      "title": "Thermal Clothing for Mymensingh",
+      "image": "https://i.ibb.co.com/yf6Gt9y/istockphoto-1339697803-612x612.jpg",
+      "description": "Collecting thermal clothing for people in Mymensingh facing extreme cold.",
+      "status": "Active",
+      "contactInfo": "mymensinghrelief@gmail.com | +880445566778",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 9,
+      "title": "Woolen Supplies for Gazipur",
+      "image": "https://i.ibb.co.com/GRgcxts/images-1.jpg",
+      "description": "Helping Gazipur's low-income residents with woolen clothes.",
+      "status": "Active",
+      "contactInfo": "gazipurdonation@gmail.com | +880334455667",
+      "division": "Gazipur"
+    },
+    {
+      "id": 10,
+      "title": "Emergency Winter Support in Cox's Bazar",
+      "image": "https://i.ibb.co.com/Lhq8gCn/images.jpg",
+      "description": "Providing urgent winter supplies to the refugee community in Cox's Bazar.",
+      "status": "Active",
+      "contactInfo": "coxsbazarhelp@gmail.com | +880223344556",
+      "division": "Cox's Bazar"
+    }
+  ]
