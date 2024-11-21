@@ -6,6 +6,7 @@ import Login from "../pages/Login";
 import Register from "../pages/Register";
 import DonationDetails from "../pages/DonationDetails";
 import PrivetRoute from "./PrivetRoute";
+// import ForgetPassword from "../pages/ForgetPassword";
 
 
 const router = createBrowserRouter([
@@ -44,7 +45,12 @@ const router = createBrowserRouter([
             {
                 path: "/auth/register",
                 element: <Register></Register>
-            }
+            },
+            // {
+            //     path: "/auth/forgot-password",
+            //     element: <ForgetPassword></ForgetPassword>
+            // }
+
         ]
         
     }
